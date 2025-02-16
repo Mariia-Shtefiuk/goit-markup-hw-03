@@ -26,6 +26,10 @@ a {
   text-decoration: none;
 }
 
+img {
+  display: block;
+}
+
 .container {
   max-width: 1158px;
   padding-left: 15px;
@@ -230,7 +234,8 @@ a {
 }
 
 .staff-info {
-  padding: 32px 16px;
+  padding: 32px 0;
+  text-align: center;
 }
 
 .staff-name {
